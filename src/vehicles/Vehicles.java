@@ -17,5 +17,8 @@ public class Vehicles {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    public void promptUser(){
+        System.out.println("Hello World");
+    }
     
 }
